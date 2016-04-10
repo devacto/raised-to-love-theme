@@ -115,7 +115,6 @@ textarea:focus {
 blockquote {
   border-left: 4px solid #00ada7;
   font-family: 'Roboto Slab', serif;
-  font-style: italic;
 }
 pre {
   padding: 0;
